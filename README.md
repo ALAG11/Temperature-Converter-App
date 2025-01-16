@@ -43,10 +43,6 @@ Alternatively, you can directly install the APK on your Android device:
 
 Contributions are welcome! If you have improvements or new features to add, feel free to open an issue or submit a pull request.
 
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## 🌟 Show Your Support
 
 Give a ⭐️ if you like this project and find it helpful!
